@@ -1,0 +1,24 @@
+{
+  "name": "vue-search",
+  "version": "1.0.10",
+  "description": "a fullscreen search component for mobile application base on Vue.js & Weui",
+  "main": "search.vue",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "fullscreen",
+    "search",
+    "vue",
+    "weui"
+  ],
+  "devDependencies": {
+    "vue": "^1.0.21"
+  },
+  "author": "chenyun01@puhuifinance.com",
+  "license": "ISC"
+}
