@@ -1,6 +1,9 @@
 # vue-search
 ### 一款基于 [vuejs](http://vuejs.org/) & [weui](http://weui.io/) 的全屏搜索组件
 
+## 使用说明
+###  [Vue组件开发分享](http://www.cnblogs.com/souvenir/p/5704319.html)  
+
 
 ## 功能
 * 根据配置的数据列表提供关键字`过滤搜索`功能
